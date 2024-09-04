@@ -1,3 +1,5 @@
+LICENSE
+README.md
 setup.py
 Fernando_Alzueta.egg-info/PKG-INFO
 Fernando_Alzueta.egg-info/SOURCES.txt
@@ -5,4 +7,4 @@ Fernando_Alzueta.egg-info/dependency_links.txt
 Fernando_Alzueta.egg-info/requires.txt
 Fernando_Alzueta.egg-info/top_level.txt
 dev_aberto/dev_aberto.py
-scripts/hello.py
+dev_aberto/hello.py
